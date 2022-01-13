@@ -1,0 +1,55 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #ff9292, #f8f1b3, #ecd1ff, #cefcd6, #bbe6fa);
+}
+
+.header
+{
+	color: rgb(1, 18, 77);
+	font-family: 'Emilys Candy', cursive;
+	text-shadow: #d7f7cd;
+	font-size: 50px;
+	letter-spacing: 4px;
+	margin-top: 80px;
+}
+.header img
+{
+	width: 80px;
+	margin-left: -15px;
+}
+
+.login_div
+{
+	background: #ffffff;
+	border-radius: 15px;
+	border-style: solid;
+	border-width: 7px;
+	border-color: rgb(244, 187, 252);
+	float: none;
+}
+
+.logo
+{
+	width: 80px;
+	margin-top: 30px;
+	border-radius: 40px;
+}
+
+#login_button
+{
+	background-color: #fcefb6;
+	width: 80%;
+	border-radius: 15px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #ff9292;
+	color: rgb(0, 0, 0);
+	font-size: large;
+}
+
